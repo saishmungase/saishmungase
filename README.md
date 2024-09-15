@@ -3,7 +3,7 @@
 <h3 align="center">"Passionate about software development with in building full-stack solutions and cloud integration."</h3>
 <img align="right" alt ="Coder" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saishmungase&label=Profile%20views&color=0e75b6&style=flat" alt="saishmungase" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saishmungase&label=Profile%20views&color=0e75b6&style=flat" alt="saishmungase" /> </p> 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saishmungase" alt="saishmungase" /></a> </p>
 
