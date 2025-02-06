@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@saishmungase](https://medium.com/@saishmungase)
 
-- 💬 Ask me about **nodejs, express, DSA, Frontend**
+- 💬 Ask me about **Full Stack, DSA, DevOps**
 
 - 📫 How to reach me **saishmungase@gmail.com**
 
