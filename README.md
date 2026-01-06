@@ -1,131 +1,143 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=2E91FC&center=true&vCenter=true&width=700&lines=Hi+There!+%F0%9F%91%8B+I'm+Saish+Mungase;Full-Stack+Engineer+%F0%9F%92%BB;Team+Leader+%26+Innovator+%F0%9F%9A%80;Manim+Animation+Enthusiast+%F0%9F%8E%A8;Building+Cloud-Native+Solutions+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00F0FF&background=00000000&center=true&vCenter=true&width=800&lines=SAISH+MUNGASE;FULL-STACK+WIZARD+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F;PROFESSIONAL+BUG+CREATOR+%F0%9F%90%9B;POWERED+BY+COFFEE+AND+CHAOS+%E2%98%95" alt="Typing SVG" />
+
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzM0YjZjZGNkZDg1N2MzMzQ4MjBjMzI0MzRhZDI4MzI0MzQ4MjBjMyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/u4Fv9hV5r1VbY3bM1z/giphy.gif" width="600" style="border-radius: 10px; box-shadow: 0px 0px 30px #00F0FF;" />
+
+  <br/><br/>
+
+  <h3 style="color: #FF0055;">
+    <i>"Debugging is like being the detective in a crime movie where you are also the murderer."</i>
+  </h3>
+  <p><b>-- by Saish</b></p>
+
+  <p>
+    <a href="https://linkedin.com/in/saishmungase" target="_blank">
+      <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://github.com/saishmungase" target="_blank">
+      <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+    </a>
+    <a href="mailto:saishmungase@gmail.com">
+      <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+  </p>
 </div>
+
+---
 
 <div align="center">
-  <h3><i>"Creative coder blending art with logic."</i></h3>
+  <table style="border: none; background-color: #0d1117;">
+    <tr>
+      <td align="center" width="30%">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" style="border-radius: 50%; border: 3px solid #FF0055;" />
+        <br/>
+        <b>OPERATOR: SAISH</b>
+      </td>
+      <td width="70%">
+        <h3 style="color: #00F0FF;">⚡ MISSION STATUS</h3>
+        <ul>
+          <li><b>Current Quest:</b> Building <a href="#">HomeROI</a> & <a href="#">EcoCapture</a></li>
+          <li><b>Class:</b> Computer Engineering '27 🎓</li>
+          <li><b>Superpower:</b> Turning Coffee into Code ☕</li>
+          <li><b>Fun Fact:</b> I clicked "Maybe Later" on an update 3 years ago and I'm still running.</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saishmungase&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="saishmungase" /></a>
+---
+
+### 🛠️ <span style="color: #FF0055">The Weaponry</span>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/SVELTE-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
+  <img src="https://img.shields.io/badge/TAILWIND-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</div>
+
+---
+
+---
+
+### 📊 <span style="color: #00F0FF">Contribution Data</span>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saishmungase&bg_color=0D1117&color=00F0FF&line=00FF41&point=FFFFFF&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+</div>
+
+<br/>
+
+<br/>
+
+<div align="center">
+
+  <h2 style="color:#00FF41;">⚙️ SYSTEM STATUS</h2>
+
+  <table>
+    <tr>
+      <td align="left">
+        🟢 <b>Status:</b> Online <br/>
+        🧠 <b>Brain:</b> Compiling Ideas <br/>
+        ☕ <b>Caffeine Level:</b> Optimal <br/>
+        🐞 <b>Bugs:</b> Under Investigation <br/>
+        🚀 <b>Next Deploy:</b> Soon™
+      </td>
+    </tr>
+  </table>
+
+<br/>
+
+<h3 align="center" style="color:#00F0FF;">▰ CONTRIBUTION HEATMAP ▰</h3>
+
+<div align="center">
+  <img 
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
+    width="100%"
+    alt="3D Contribution Heatmap"
+  />
+</div>
+
+<p align="center" style="color:#8b949e; font-size:13px;">
+  Contribution density visualized as a grid
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/saishmungase" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://medium.com/@saishmungase" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
-  <a href="https://www.leetcode.com/saishmungase" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-  <a href="mailto:saishmungase@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-</p>
+<br/>
 
----
 
-### 👨‍💻 About Me
 
-I am a **Computer Engineering Student (Class of 2027)** and a passionate **Team Leader**. My focus lies in building scalable full-stack applications, optimizing backend architecture, and visualizing complex algorithms using **Manim**.
+  <h3 style="color:#00F0FF;">📡 Connect With the Operator</h3>
 
-- 🔭 I’m currently working on **HomeROI** and **EcoCapture**.
-- 🌱 I’m currently learning **Advanced Backend Architecture (FastAPI/Docker)** & **Svelte**.
-- 👯 I’m looking to collaborate on **Open Source Projects** and **Hackathons**.
-- ⚡ Fun fact: I create animations to visualize sorting algorithms and physics concepts!
+  <a href="https://linkedin.com/in/saish-mungase">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:saishmungase@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/saishmungase">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
 
----
+  <br/><br/>
 
-### 🛠️ Languages & Tools
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Thanks+for+scrolling+this+far.;You+are+now+part+of+the+repo.;May+your+builds+never+fail+🚀" />
 
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-      <br>Java
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-      <br>Express
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
-      <br>FastAPI
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-      <br>Docker
-    </td>
-  </tr>
-   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-      <br>Postman
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
-      <br>Bash
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=svelte" width="48" height="48" alt="Svelte" />
-      <br>Svelte
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-      <br>Bootstrap
-    </td>
-  </tr>
-</table>
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **HomeROI** | An AI-Powered Renovation ROI Engine that prescribes renovation value. | `Python` `AI/ML` |
-| **EcoCapture** | AI model to capture object images and suggest recycling methods. | `CV` `Python` |
-| **Entangle-Minds** | Quantum Computing solution for Vehicle Routing Problems (VRP). | `Quantum` `Python` |
-| **ContentForge** | Event-Driven AI Content Engine built for Backend Reloaded Hackathon. | `Event-Driven` `AI` |
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saishmungase&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saishmungase&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=6" height="180" alt="languages graph"  />
 </div>
 
-<div align="center">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saishmungase&theme=tokyonight&hide_border=true&background=0D1117" alt="streak graph" />
-</div>
+<br/>
 
 <div align="center">
-  <img src="https://github.com/saishmungase/saishmungase/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=120&section=footer"/>
 </div>
