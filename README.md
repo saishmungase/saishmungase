@@ -1,9 +1,9 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=32CD32&background=00000000&center=true&vCenter=true&width=800&lines=SAISH+MUNGASE;FULL-STACK+WIZARD+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F;PROFESSIONAL+BUG+CREATOR+%F0%9F%90%9B;POWERED+BY+COFFEE+AND+CHAOS+%E2%98%95" alt="Typing SVG" />
+  <h1>SAISH MUNGASE</h1>
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzM0YjZjZGNkZDg1N2MzMzQ4MjBjMzI0MzRhZDI4MzI0MzQ4MjBjMyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/u4Fv9hV5r1VbY3bM1z/giphy.gif" width="600" style="border-radius: 10px; box-shadow: 0px 0px 30px #00F0FF;" />
-
+  <img src="./saish.jpeg" width="600" style="border-radius: 10px; box-shadow: 0px 0px 30px #00F0FF;" />
+  
   <br/><br/>
 
   <h3 style="color: #FF0055;">
