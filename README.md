@@ -2,7 +2,7 @@
   
   <h1>SAISH MUNGASE</h1>
 
-  <img src="./saish.jpeg" width="600" style="border-radius: 10px; box-shadow: 0px 0px 30px #00F0FF;" />
+  <img src="./saish.jpeg" width="300" style="border-radius: 10px; box-shadow: 0px 0px 30px #00F0FF;" />
   
   <br/><br/>
 
