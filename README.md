@@ -37,7 +37,7 @@
       <td width="70%">
         <h3 style="color: #00F0FF;">⚡ MISSION STATUS</h3>
         <ul>
-          <li><b>Current Quest:</b> Building <a href="#">HomeROI</a> & <a href="#">EcoCapture</a></li>
+          <li><b>Current Quest:</b> Building <a href="https://github.com/saishmungase/RedisProvider">Redis Provider</a>
           <li><b>Class:</b> Computer Engineering '27 🎓</li>
           <li><b>Superpower:</b> Turning Coffee into Code ☕</li>
           <li><b>Fun Fact:</b> I clicked "Maybe Later" on an update 3 years ago and I'm still running.</li>
